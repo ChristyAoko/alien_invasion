@@ -1,1 +1,2 @@
-Alien Invasion GUI game created in Python 
+# Game
+Python GUI Alien Invasion Game
